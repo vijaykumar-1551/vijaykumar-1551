@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @vijaykumar-1551
 - 👀 Data Scientist @ P2F semi
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ... @ -- vijaykumar@p2fsemi.in
 
 <!---
